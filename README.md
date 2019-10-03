@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 https://github.com/LaurentStar/SimpleTodo/blob/master/walkthrough.gif
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with AZ screen recorder [LiceCap](http://www.cockos.com/licecap/).
 
