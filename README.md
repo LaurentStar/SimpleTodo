@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-https://github.com/LaurentStar/SimpleTodo/blob/master/walkthrough.mp4
+https://github.com/LaurentStar/SimpleTodo/blob/master/walkthrough.gif
 Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
